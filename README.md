@@ -27,3 +27,11 @@ QA Strategy: Testing needs to be done on known unused videos of youtube and the 
 Delivery Mechanism: (Data processing\Batch\Lambda): model will be delivered in the form of api
 
 Phase of Development: (Completion state\iteration): Version 1: Passed in QA testing
+
+File info:
+tranding: contains trending and non trending video data from YT
+video_details: video stats of trending and non trending data
+channel stats: channel stats of the video considered
+sentiment: sentiment analysis of the videos comments
+virality_indexing.py: contains code for cleaning and modelling work on virality indexing
+
